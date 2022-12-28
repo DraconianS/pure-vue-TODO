@@ -27,4 +27,9 @@ header{
   min-width: 100vw;
   background-color: rebeccapurple;
 }
+main{
+  margin-left:50%;
+  transform: translateX(-50%);
+  max-width: fit-content;  
+}
 </style>
